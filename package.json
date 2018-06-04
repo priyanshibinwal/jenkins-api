@@ -1,0 +1,10 @@
+{
+"name"="apitesting",
+"description:"project for testing",
+
+"scripts":
+{
+"api-tests-production:"newman run tests/trello1.postman_collection.json"
+},
+"author":"priyanshi"
+}
